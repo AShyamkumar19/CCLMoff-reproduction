@@ -1,0 +1,17 @@
+cclmoff-env/
+genomes/
+*.fa
+*.fasta
+*.fastq
+*.pt
+*.bin
+*.h5
+*.pickle
+*.zip
+*.7z
+__pycache__/
+.DS_Store
+*.log
+checkpoints/
+data/
+
